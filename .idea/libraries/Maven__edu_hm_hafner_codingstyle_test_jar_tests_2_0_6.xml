@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.hm.hafner:codingstyle:test-jar:tests:2.0.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/hm/hafner/codingstyle/2.0.6/codingstyle-2.0.6-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/hm/hafner/codingstyle/2.0.6/codingstyle-2.0.6-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/hm/hafner/codingstyle/2.0.6/codingstyle-2.0.6-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b53323ff-9875-4da8-b96c-4b6cbea1eaf3" name="Default Changelist" comment="created test">
+      <change beforePath="$PROJECT_DIR$/../abgabe-1-shaherov/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abgabe-1-shaherov/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abgabe-1-shaherov/src/test/java/edu/hm/hafner/assignment/UniqueIntegersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abgabe-1-shaherov/src/test/java/edu/hm/hafner/assignment/UniqueIntegersTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../abgabe-1-shaherov" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pyUrVYEPMhVhcgvsoYkGLp18ub" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../abgabe-1-shaherov" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.hm.hafner.assignment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UniqueIntegersTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.hafner.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.hafner.assignment" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.hafner.assignment.UniqueIntegersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegersTest.shouldCheckForEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.hafner.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.hafner.assignment" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.hafner.assignment.UniqueIntegersTest" />
+      <option name="METHOD_NAME" value="shouldCheckForEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegersTest.shouldContainIntegers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.hafner.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.hafner.assignment" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.hafner.assignment.UniqueIntegersTest" />
+      <option name="METHOD_NAME" value="shouldContainIntegers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegersTest.shouldIntersectIntegers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.hafner.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.hafner.assignment" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.hafner.assignment.UniqueIntegersTest" />
+      <option name="METHOD_NAME" value="shouldIntersectIntegers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegersTest.testMethodeAppend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.hafner.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.hafner.assignment" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.hafner.assignment.UniqueIntegersTest" />
+      <option name="METHOD_NAME" value="testMethodeAppend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UniqueIntegersTest" />
+        <item itemvalue="JUnit.UniqueIntegersTest.testMethodeAppend" />
+        <item itemvalue="JUnit.UniqueIntegersTest.shouldIntersectIntegers" />
+        <item itemvalue="JUnit.UniqueIntegersTest.shouldContainIntegers" />
+        <item itemvalue="JUnit.UniqueIntegersTest.shouldCheckForEquality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b53323ff-9875-4da8-b96c-4b6cbea1eaf3" name="Default Changelist" comment="" />
+      <created>1616155025207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616155025207</updated>
+      <workItem from="1616155027387" duration="312000" />
+      <workItem from="1616155365393" duration="133000" />
+      <workItem from="1616155527987" duration="8329000" />
+      <workItem from="1616164467898" duration="911000" />
+      <workItem from="1616745571437" duration="365000" />
+      <workItem from="1616745957202" duration="7038000" />
+      <workItem from="1616755408654" duration="2661000" />
+      <workItem from="1616758092870" duration="6042000" />
+      <workItem from="1616764160059" duration="520000" />
+    </task>
+    <task id="LOCAL-00001" summary="created test">
+      <created>1616158161443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616158161443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created test" />
+    <option name="LAST_COMMIT_MESSAGE" value="created test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_shouldCheckForEquality.ic" NAME="UniqueIntegersTest.shouldCheckForEquality Coverage Results" MODIFIED="1616761727468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_shouldContainIntegers.ic" NAME="UniqueIntegersTest.shouldContainIntegers Coverage Results" MODIFIED="1616761919433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_shouldCreateUniqueIntegersWith10PredefinedValues.ic" NAME="UniqueIntegersTest.shouldCreateUniqueIntegersWith10PredefinedValues Coverage Results" MODIFIED="1616757944271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_testMethodeRemove.ic" NAME="UniqueIntegersTest.testMethodeRemove Coverage Results" MODIFIED="1616759545312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_shouldIntersectIntegers.ic" NAME="UniqueIntegersTest.shouldIntersectIntegers Coverage Results" MODIFIED="1616762371102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest.ic" NAME="UniqueIntegersTest Coverage Results" MODIFIED="1616763645998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Softwareentwicklung_II___Assignment_1$UniqueIntegersTest.ic" NAME="UniqueIntegersTest Coverage Results" MODIFIED="1616162411137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_testMethode.ic" NAME="UniqueIntegersTest.testMethode Coverage Results" MODIFIED="1616757631845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_shouldCreateEmptyUniqueIntegersLong.ic" NAME="UniqueIntegersTest.shouldCreateEmptyUniqueIntegersLong Coverage Results" MODIFIED="1616758174194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_testMethodeB.ic" NAME="UniqueIntegersTest.testMethodeB Coverage Results" MODIFIED="1616759241101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/abgabe_1_shaherov_clone$UniqueIntegersTest_testMethodeAppend.ic" NAME="UniqueIntegersTest.testMethodeAppend Coverage Results" MODIFIED="1616763562841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.hafner.assignment.*</FILTER>
+    </SUITE>
+  </component>
+</project>
